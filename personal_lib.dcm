@@ -1,0 +1,122 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AL3353
+D LED Boost Driver
+F https://www.diodes.com/assets/Datasheets/AL3353.pdf
+$ENDCMP
+#
+$CMP DRV8871
+D DRV8871 3.6A Brushed DC Motor Driver
+K Motor Driver
+F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+$ENDCMP
+#
+$CMP INA199
+D 26-V, Bidirectional, Zero-Drift, Low- or High-Side, Voltage-Output, Current-Shunt Monitor
+F http://www.ti.com/lit/ds/symlink/ina199.pdf
+$ENDCMP
+#
+$CMP IRF6201PbF
+D 20V Vds, 27A Id, HEXFET MOSFET, SO-8
+K HEXFET N-Channel MOSFET
+F https://www.mouser.com/ds/2/196/irf6201pbf-1227221.pdf
+$ENDCMP
+#
+$CMP LM3410
+D Constant-Current Boost and SEPIC LED Driver
+$ENDCMP
+#
+$CMP LM3478
+D High-Efficiency Low-Side N-Channel Controller for Switching Regulator
+F http://www.ti.com/lit/ds/symlink/lm3478.pdf
+$ENDCMP
+#
+$CMP MAX40200
+D Ultra-Tiny Micropower, 1A Ideal Diode
+F https://datasheets.maximintegrated.com/en/ds/MAX40200.pdf
+$ENDCMP
+#
+$CMP MCP6001
+D 1MHz, Low-Power Op Amp, SOT-23-5/SC-70-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP601-xOT
+D Single 2.7V to 6.0V Single Supply CMOS Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP6561
+D Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5/SC-70-5
+K dual comparator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22139C.pdf
+$ENDCMP
+#
+$CMP MCP73831
+D Single Cell Li-Ion Charger
+$ENDCMP
+#
+$CMP Micro_USB_B
+D USB Type A connector
+K connector USB
+$ENDCMP
+#
+$CMP OPA320
+D 10 MHz, 850 µA Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP OPA333xxDBV
+D Single 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA340NA
+D 20-MHz, 0.9-pA, Low-Noise, RRIO, CMOS Operational Amplifier With Shutdown
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa320.pdf
+$ENDCMP
+#
+$CMP OPA376xxDBV
+D Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP QS5U28
+D P MOSFET and Schottky Diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/qs5u28tr-e.pdf
+$ENDCMP
+#
+$CMP TPS2113A
+D TPS2113A Autoswitching Power Mux
+F http://www.ti.com/lit/ds/symlink/tps2113a.pdf
+$ENDCMP
+#
+$CMP TPS709A
+F http://www.ti.com/lit/ds/symlink/tps709.pdf
+$ENDCMP
+#
+$CMP TS881
+D Rail-to-rail 0.9 V nanopower comparator, SOT-23-5/SC-70-5
+K single comparator
+F www.st.com/resource/en/datasheet/ts881.pdf
+$ENDCMP
+#
+$CMP TSV911ILT
+D Single rail-to-rail input/output 8 MHz operational amplifiers, SOT-23-5
+K single opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP UCC2732
+D Dual Power MOSFET Driver
+K MOSFET driver array
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7667.pdf
+$ENDCMP
+#
+#End Doc Library
