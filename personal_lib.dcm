@@ -5,6 +5,10 @@ D LED Boost Driver
 F https://www.diodes.com/assets/Datasheets/AL3353.pdf
 $ENDCMP
 #
+$CMP APA102C_5050
+D APA102C Addressable LED
+$ENDCMP
+#
 $CMP DRV8871
 D DRV8871 3.6A Brushed DC Motor Driver
 K Motor Driver
