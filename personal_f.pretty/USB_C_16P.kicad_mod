@@ -1,4 +1,5 @@
-(module USB_C_16P (layer F.Cu) (tedit 5D92FC94)
+(module USB_C_16P (layer F.Cu) (tedit 5DA3AD3B)
+  (descr "USB C Connector")
   (fp_text reference REF** (at 0 4.445) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
